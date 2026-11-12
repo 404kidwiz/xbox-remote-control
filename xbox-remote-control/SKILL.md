@@ -1,6 +1,6 @@
 ---
 name: xbox-remote-control
-description: "This skill should be used when the user asks to control, configure, or change settings on their Xbox console or in any game or app running on it from a computer: 'configure my Xbox', 'change my controller settings', 'set my settings in <any game>', 'adjust sensitivity or deadzones', 'turn off vibration', 'change graphics, audio, or HUD options on the Xbox', 'open settings on my Xbox', 'launch <game> on my Xbox'. Works with any game: Call of Duty, Fortnite, Apex Legends, EA FC, Forza, Minecraft, Halo, Rocket League, and others. Drives the console through Xbox Remote Play in a browser with an injected virtual gamepad, reading the screen from screenshots. Menus and settings only."
+description: "This skill should be used when the user asks to control, configure, or change settings on their Xbox console or in any game or app running on it from the Mac or another computer: 'configure my Xbox', 'change my controller settings', 'set my settings in <any game>', 'set my Warzone sensitivity', 'adjust sensitivity or deadzones', 'turn off vibration', 'change graphics, audio, or HUD options on the Xbox', 'open settings on my Xbox', 'launch <game> on my Xbox'. Works with any console game: Call of Duty, Warzone, Fortnite, Apex Legends, EA FC, Forza, Minecraft, Halo, Rocket League, and others. Drives the console through Xbox Remote Play in a browser with an injected virtual gamepad, reading the screen from screenshots. Menus and settings only."
 category: automation
 risk: caution
 source: local
