@@ -1,5 +1,7 @@
 # xbox-remote-control
 
+![A laptop showing a settings panel, linked by a glowing arc to a game controller](assets/banner.jpg)
+
 An agent skill for operating an Xbox console from a computer: console settings and the menus of any game or app on it.
 
 A retail Xbox exposes no LAN configuration API, so the skill uses Xbox Remote Play in a browser. The console streams its screen into a page, a small script presents a virtual gamepad to that page, and the agent reads screenshots to decide each press.
